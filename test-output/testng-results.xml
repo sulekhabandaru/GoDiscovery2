@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39715" started-at="2019-09-08T16:12:14Z" finished-at="2019-09-08T16:12:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39715" started-at="2019-09-08T16:12:14Z" finished-at="2019-09-08T16:12:53Z">
+      <class name="TestCases.PopularShowsTestCase">
+        <test-method status="PASS" signature="openDiscoveryPage()[pri:0, instance:TestCases.PopularShowsTestCase@1b604f19]" name="openDiscoveryPage" is-config="true" duration-ms="19060" started-at="2019-09-08T21:42:14Z" finished-at="2019-09-08T21:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openDiscoveryPage -->
+        <test-method status="PASS" signature="verifyPopularShows()[pri:0, instance:TestCases.PopularShowsTestCase@1b604f19]" name="verifyPopularShows" duration-ms="19369" started-at="2019-09-08T21:42:33Z" finished-at="2019-09-08T21:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPopularShows -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:TestCases.PopularShowsTestCase@1b604f19]" name="quitBrowser" is-config="true" duration-ms="1265" started-at="2019-09-08T21:42:52Z" finished-at="2019-09-08T21:42:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- TestCases.PopularShowsTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
