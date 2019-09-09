@@ -89,6 +89,7 @@ public class TvShowsPage {
 				}
 				//driver.manage().timeouts().implicitlyWait(40, TimeUnit.SECONDS);
 				driver.navigate().back();
+				driver.navigate().refresh();
 				//System.out.println("navigated back");
 				driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 			}
